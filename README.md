@@ -125,6 +125,21 @@ The full token JSON is injected verbatim into the generation system prompt.
 
 ---
 
+
+## Demo
+
+### Component Generation & Validation
+![Generation and Validation](screenshots/assi1.png)
+
+### Multi-turn Editing - "Now make the button rounded with a glow effect"
+![Multi-turn editing](screenshots/assi2.png)
+
+### Updated Component with Rounded Glow Button
+![Updated component](screenshots/assi3.png)
+
+------
+
+
 ## Validation Logic (`validator.py`)
 
 ### Syntax Checks (Regex + string analysis)
