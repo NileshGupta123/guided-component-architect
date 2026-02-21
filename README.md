@@ -185,7 +185,7 @@ The API maintains `conversation_history` per `session_id`. Follow-up prompts lik
 
 ---
 
-## Prompt Injection Prevention & Scaling (300–400 word note)
+## Prompt Injection Prevention & Scaling
 
 ### Prompt Injection Prevention
 
@@ -207,4 +207,3 @@ The same agentic loop generalizes to full-page generation by introducing a **dec
 
 ---
 
-*Built for the Pythrust Technologies Gen AI Engineer Intern evaluation.*
