@@ -1,0 +1,21 @@
+# Environment variables (keeps your API key safe)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output files
+output/
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+desktop.ini
